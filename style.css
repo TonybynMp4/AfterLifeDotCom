@@ -113,15 +113,13 @@ footer .footer-middle {
 }
 
 footer .footer-right {
-    font-weight: bold;
-    font-size: 1.25rem;
     width: 30vw;
     margin-right: auto;
 }
 
 footer .footer-right .icons {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 1vw;
     justify-content: center;
 }
