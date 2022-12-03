@@ -120,8 +120,8 @@ footer .footer-right {
 footer .footer-right .icons {
     display: flex;
     flex-direction: column;
-    gap: 1vw;
-    justify-content: center;
+    gap: 2vw;
+    align-items: center;
 }
 
 footer .footer-right img {
